@@ -7,6 +7,8 @@ authors = ["None"]
 [tool.poetry.dependencies]
 python = "^3.10"
 Django = "^4.0.3"
+djangorestframework = "^3.13.1"
+django-filter = "^21.1"
 
 [tool.poetry.dev-dependencies]
 
